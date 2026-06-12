@@ -13,7 +13,7 @@ Herramientas:
 
 import httpx
 from fastmcp import FastMCP
-
+raise RuntimeError("ESTO_VIENE_REAL")
 # ──────────────────────────────────────────────
 # Configuración
 # ──────────────────────────────────────────────
